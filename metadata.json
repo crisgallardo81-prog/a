@@ -1,0 +1,8 @@
+{
+  "name": "Laboratorio Didáctico de Muestreo Estadístico",
+  "description": "Laboratorio interactivo para el aprendizaje metodológico del cálculo de tamaño muestral, fórmulas matemáticas en tiempo real, diseños de muestreo y generador aleatorio sin reemplazo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
